@@ -88,3 +88,6 @@ I got the idea from the Peter Norvig [pytudes](https://github.com/norvig/pytudes
 # No Profit
 
 These books are no profit for everyone. If you have license issue, please contact me. 
+
+# 这个是开课吧 中 高民权老师 看过的书
+
